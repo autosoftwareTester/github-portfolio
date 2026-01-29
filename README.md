@@ -1,8 +1,6 @@
 # Chinemerem Igwe – Senior Test Automation QA Engineer
 
-📞 **+27 64 853 3763** | ✉️ [autotestsoftware@gmail.com](mailto:autotestsoftware@gmail.com) | 🌐 [LinkedIn Profile](https://www.linkedin.com/in/chinemerem-igwe/) |
-
----
+📞 **+27 64 853 3763** | ✉️ [autotestsoftware@gmail.com](mailto:autotestsoftware@gmail.com) | 🌐 https://www.linkedin.com/in/chinemerem-igwe/
 
 ## **Profile**
 Senior QA Automation Engineer with **6+ years** of experience in testing, specializing in **AI & Machine Learning tools** to build robust test automation frameworks. Expertise in **fintech, banking systems, and credit card transactions**, with a passion for leveraging **AI/ML** to enhance test efficiency, predictive defect analysis, and intelligent automation.
