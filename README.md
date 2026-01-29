@@ -1,6 +1,6 @@
 # Chinemerem Igwe – Senior Test Automation QA Engineer
 
-📞 **+27 64 853 3763** | ✉️ [autotestsoftware@gmail.com](mailto:autotestsoftware@gmail.com) | 🌐 [LinkedIn Profile](https://www.linkedin.com/in/chinemerem-igwe/) | 🔗 [Playwright Test Automation Repo](https://github.com/playwright.test.automation)
+📞 **+27 64 853 3763** | ✉️ [autotestsoftware@gmail.com](mailto:autotestsoftware@gmail.com) | 🌐 [LinkedIn Profile](https://www.linkedin.com/in/chinemerem-igwe/)
 
 ---
 
