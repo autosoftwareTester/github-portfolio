@@ -1,5 +1,9 @@
 # Chinemerem Igwe – Senior Test Automation QA Engineer
 
+📞 **+27 64 853 3763** | ✉️ [autotestsoftware@gmail.com](mailto:autotestsoftware@gmail.com) | 🌐 [LinkedIn Profile](https://www.linkedin.com/in/chinemeremigwe) |
+
+---
+
 ## **Profile**
 Senior QA Automation Engineer with **6+ years** of experience in testing, specializing in **AI & Machine Learning tools** to build robust test automation frameworks. Expertise in **fintech, banking systems, and credit card transactions**, with a passion for leveraging **AI/ML** to enhance test efficiency, predictive defect analysis, and intelligent automation.
 
@@ -66,4 +70,45 @@ Senior QA Automation Engineer with **6+ years** of experience in testing, specia
 
 ### **Johannesburg Stock Exchange, South Africa – Trading Systems**
 **Technical Test Analyst Automation** | *Apr 2020 – Dec 2020*
-- Designed and executed test cases from
+- Designed and executed test cases from business requirements to validate **derivatives and stock trading platforms**.
+- **Tools:** SailFish MIT, Java, BDD, Rest-Assured API.
+
+### **Paracon Consultant at Nedbank Plc, South Africa – Stockbroking Systems**
+**Intermediate QA Engineer** | *Mar 2018 – Dec 2019*
+- Automated web and microservices applications for **stockbroking trading platforms**.
+- Validated the **Upfront Client Risk Profiling Algorithm (UCRP)**.
+- **Tools:** Jira, Java, Cucumber (BDD), Rest-Assured, Postman, Jenkins CI/CD, SonarQube.
+
+### **TestNet (Pty) Ltd, South Africa**
+**Junior Test Automation Engineer** | *Mar 2017 – Feb 2018*
+- Designed and executed test cases for **web marketing applications and services**.
+- **Tools:** Selenium, Java, BDD, Git, GitHub VCS.
+
+---
+
+## **Education**
+- **Advanced Diploma, Information Resource Management** – University of South Africa, Pretoria (*2026*)
+- **Diploma, Information Technology** – University of South Africa, Pretoria (*2019*)
+- **National Senior Secondary Certificate** – Pobuna Secondary Grammar School, Lagos (*2003*)
+
+---
+
+## **Certifications**
+- Microsoft Certified Azure Fundamentals (*2025*)
+- AWS Certified Cloud Practitioner (*2025*)
+- ISTQB Advanced Level Test Automation Engineer (*2020*)
+- ISTQB Foundation Agile Tester (*2020*)
+- ISTQB Mobile Application Tester (*2021*)
+- ISTQB Foundation Level Tester (*2014*)
+- Java Foundations Certified Junior Associate – Oracle (*2020*)
+- Computer Networking+ – Microsoft Technology Associates (*2017*)
+- Practical Software Testing & SQL for Testers – ILAB Training (*2014*)
+- Computer Support Technician – PC Training & Business College (*2013*)
+
+---
+
+## **References**
+- **Busani Siwela** – Investec Bank, Team Lead | ✉️ [Busani.Siwela@investec.com](mailto:Busani.Siwela@investec.com) | 📞 +27 78 804 0526
+- **Vincent Matidze** – BMW IT Hub | ✉️ [ndivhuvince@gmail.com](mailto:ndivhuvince@gmail.com) | 📞 +27 81 308 4093
+- **Rejoice Moropane** – Inspired Testing | ✉️ [RMoropane@inspiredtesting.com](mailto:RMoropane@inspiredtesting.com) | 📞 +27 82 401 9182
+- **Buyi Mbatha** – Johannesburg Stock Exchange | ✉️ [BuyiM@jse.co.za](mailto:BuyiM@jse.co.za) | 📞 +27 83 718 3760
