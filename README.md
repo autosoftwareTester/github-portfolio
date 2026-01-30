@@ -4,7 +4,7 @@
 
 🔗 **Self Developed Test Automation Projects**
 
-[Java-Based Test Automation API Testing](https://github.com/autosoftwareTester/github-portfolio-Paypal-Sandbox-API)
+[Java-Based Paypal SandBox Test Automation API Testing](https://github.com/autosoftwareTester/github-portfolio-Paypal-Sandbox-API)
 
 [C#-Based Test Automation Project link](https://github.com/autosoftwareTester/github-portfolio/tree/main/Test)
 
