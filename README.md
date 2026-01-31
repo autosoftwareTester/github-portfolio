@@ -2,11 +2,10 @@
 
 📞 **+27 64 853 3763** | ✉️ [autotestsoftware@gmail.com](mailto:autotestsoftware@gmail.com) | 🌐 [LinkedIn Profile](https://www.linkedin.com/in/chinemerem-igwe/) |
 
-🔗 **Self Developed Test Automation Projects**
+🔗 **Software Test Automation Portfolio**
 
 [Java-Based Paypal SandBox Test Automation API Testing](https://github.com/autosoftwareTester/github-portfolio-Paypal-Sandbox-API)
 
-[C#-Based Test Automation Project link](https://github.com/autosoftwareTester/github-portfolio/tree/main/Test)
 
 ---
 
