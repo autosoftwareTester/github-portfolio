@@ -4,15 +4,15 @@
 
 🔗 **Software Test Automation Portfolio**
 
-[Java-Based Paypal SandBox Test Automation API Testing](https://github.com/autosoftwareTester/github-portfolio-Paypal-Sandbox-API)
+[Java-Based SandBox Test Automation Hybrid Projects](https://github.com/autosoftwareTester/TestAutomationHybridProject)
 
-[C#-Based Test Automation Hybrid Project](https://github.com/MondayIgwe/TestAutomationHybridProject)
+[C#-Based Test Automation Hybrid Projects](https://github.com/MondayIgwe/TestAutomationHybridProject)
 
 
 ---
 
 ## **Profile**
-Senior QA Automation Engineer with **6+ years** of experience in testing, specializing in **AI & Machine Learning tools** to build robust test automation frameworks. Expertise in **fintech, banking systems, and credit card transactions**, with a passion for leveraging **AI/ML** to enhance test efficiency, predictive defect analysis, and intelligent automation.
+Senior QA Automation Engineer with **7 years** of experience in testing, specializing in **AI & Machine Learning tools** to build robust test automation frameworks. Expertise in **fintech, banking systems, and credit card transactions**, with a passion for leveraging **AI/ML** to enhance test efficiency, predictive defect analysis, and intelligent automation.
 
 ---
 
