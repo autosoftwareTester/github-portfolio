@@ -8,18 +8,6 @@
 
 [C#-Based Test Automation Hybrid Projects](https://github.com/MondayIgwe/TestAutomationHybridProject)
 
-
-Absolutely — here’s a **polished, ATS-optimized rewrite** of your CV for **Senior Test Automation Engineer roles in fintech and banking**.
-
----
-
-# **CHINEMEREM IGWE**
-**Senior Test Automation Engineer | Fintech, Banking & Payments QA Specialist**  
-Johannesburg, South Africa  
-+27 64 853 3763 | autotestsoftware@gmail.com | [LinkedIn](https://www.linkedin.com/in/chinemerem-igwe/)
-
----
-
 ## **PROFESSIONAL SUMMARY**
 Results-driven **Senior Test Automation Engineer** with **7+ years of experience** delivering robust quality engineering solutions across **fintech, banking, payments, trading, and enterprise technology environments**. Proven track record of designing and implementing **end-to-end test automation frameworks from scratch** for UI, API, mobile, and backend systems using **C#/.NET, Java, Playwright, Selenium, Cypress, Appium, and Rest-Assured**.
 
@@ -169,33 +157,3 @@ UNISA | **2019**
 - **ISTQB Mobile Tester** | 2020
 - **ISTQB Foundation Level** | 2020
 - **Java Foundations Certified Junior Associate** — Oracle | 2020
-
----
-
-## **ADDITIONAL INFORMATION**
-- Eligible for roles in **Senior Test Automation Engineering, SDET, QA Automation Lead, and Quality Engineering** within **fintech, banking, payments, and regulated enterprise environments**
-- References available upon request
-
----
-
-# **Why this version is stronger**
-This rewrite improves your CV by:
-- making it **more ATS-friendly** with stronger keywords recruiters search for
-- positioning you clearly for **fintech and banking automation roles**
-- emphasizing **business impact** rather than only responsibilities
-- improving consistency, readability, and professional tone
-- highlighting your strongest differentiators: **framework architecture, financial systems expertise, CI/CD, and certifications**
-
-# **Recommended file title**
-Use this as the document name when applying:
-
-**Chinemerem_Igwe_Senior_Test_Automation_Engineer_CV.pdf**
-
-If you want, I can next do either of these:
-
-1. **Create a one-page condensed version**
-2. **Tailor this CV to a specific job description**
-3. **Write a matching cover letter**
-4. **Rewrite your LinkedIn headline and About section**
-
-If you want the best next step, paste a job description and I’ll **tailor this CV directly to that role**.
