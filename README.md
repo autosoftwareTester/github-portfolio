@@ -8,152 +8,108 @@
 
 [C#-Based Test Automation Hybrid Projects](https://github.com/MondayIgwe/TestAutomationHybridProject)
 
-## **PROFESSIONAL SUMMARY**
-Results-driven **Senior Test Automation Engineer** with **7+ years of experience** delivering robust quality engineering solutions across **fintech, banking, payments, trading, and enterprise technology environments**. Proven track record of designing and implementing **end-to-end test automation frameworks from scratch** for UI, API, mobile, and backend systems using **C#/.NET, Java, Playwright, Selenium, Cypress, Appium, and Rest-Assured**.
+**PROFESSIONAL SUMMARY**
+Results-driven Senior Test Automation Engineer with 7+ years of experience engineering quality solutions across Fintech, Banking, Energy, Legal, and Manufacturing sectors. Specializes in building modular, maintainable test automation frameworks from the ground up using TypeScript/JavaScript, C#/.NET, and Java, with deep expertise in Playwright, Selenium, and Cypress. Holds multiple industry certifications (ISTQB, AWS, Azure) and is actively integrating Generative AI and LLM tooling (GitHub Copilot, Claude, GPT) with MCP servers to accelerate test asset generation, defect prediction, and framework development velocity.
 
-Strong domain expertise in **VISA card systems, payment gateways, stockbroking, risk profiling, trading platforms, and regulated financial systems**. Experienced in embedding automation into **CI/CD pipelines**, improving release confidence, accelerating regression cycles, and supporting **shift-left quality practices** across Agile teams. Holds **ISTQB Advanced**, **AWS Certified Cloud Practitioner**, and **Microsoft Azure Fundamentals** certifications. Actively leverages **Generative AI and GitHub Copilot** to accelerate framework development, improve engineering productivity, and support predictive defect analysis.
+**CORE COMPETENCIES**
+Test Automation Framework Architecture, CI/CD Pipeline Integration, API & Microservices Testing, BDD / TDD Frameworks, Performance & Load Testing, AI-Augmented QA Engineering, Fintech & Payment Systems QA, Shift-Left Testing Strategy, Defect Root Cause Analysis, Agile / Scrum & DevOps Delivery Practices, Cross-Functional Collaboration, DevOps & Cloud Quality Gates
 
----
+**TECHNICAL STACK SKILLS MATRIX**
 
-## **CORE COMPETENCIES**
-- Test Automation Framework Design
-- UI, API, Mobile, and Backend Testing
-- Fintech, Banking, Payments, and Trading Systems
-- Regression, Smoke, Integration, and End-to-End Testing
-- CI/CD Test Integration and Quality Gates
-- Test Strategy, Test Planning, and Defect Management
-- Data-Driven Testing and Database Validation
-- Agile, Scrum, and Cross-Functional Delivery
-- Shift-Left Testing and Quality Engineering
-- AI-Assisted Test Development
+**Programming Languages:**	TypeScript, JavaScript, C#/.NET, Java, SQL
+**Web Automation Testing:**	Playwright, Selenium WebDriver, Cypress, Appium
+**API Automation Testing:**	RestSharp, Rest-Assured, Postman, Bruno, Swagger/OpenAPI Client API tools
+**BDD Frameworks:**	SpecFlow/Reqnrol (C#), Cucumber (Java/JS), Gherkin framework
+**Unit Testing Frameworks:**	NUnit, Junit, TestNG, Mocha
+**CI/CD & DevOps:**	Azure DevOps Pipelines, GitHub Actions, Jenkins, Docker, YAML configuration
+**Cloud Computing Platforms:**	AWS (Certified), Microsoft Azure (Certified)
+**Test Management:**	Jira board with integrated Jira Xray & Zephyr, Azure Boards
+**Code Quality Design Patterns:**	SonarLint, SonarQube, Pull Request Reviews, Git, GitHub, Bitbucket, Coding Standards
+Page Object Model, SOLID, OOP, Design Patterns, DRY Principles
+**AI Coding Productivity Agents:**	GitHub Copilot, Claude/Anthropic, GPT, MCP Servers, Prompt & Context Engineering
+**Test Automation Framework:**	Hybrid, Data-driven, Modular framework
+**Databases / Tools	SQL Clients** DBeaver, SQL Server, PostgreSQL, IBM Terminal DB
+**Fintech Domain:**	ISO-8583 Financial Payment Standards, VISA Card Systems, POS Transactions, Trading Platforms
+**Methodologies:** DevOps, Agile/Scrum, SDLC-STLC, Shift-Left Testing, Risk-Based Testing, SDLC, STLC
+**Problem Solving Skills:**	Focused on problem statement analysis and adept in designing client centric solution
 
----
+**PROFESSIONAL EXPERIENCE**
+**Senior Test Automation Engineer – Card Payment Systems (ISO-8583)**
+**Investec Bank Ltd, Johannesburg, SA	July 2025 – Present**
+▪	Architected a modular C#/.NET test automation framework covering end-to-end quality for Card Systems and Card API, including POS, Online Banking, and Account management modules.
+▪	Implemented Bruno and RestSharp API client libraries to automate Card API validation of payment transactional services and account management endpoints against ISO-8583 financial messaging standards.
+▪	Validated IBM Terminal Emulator-based mainframe workflows for client payment transactions via automated desktop test scripts.
+▪	Engineered Azure DevOps YAML pipelines to trigger full regression suites on every pull request merge, reducing manual regression effort by 40%.
+▪	Enforced coding principles and standards through structured Azure Repo PR reviews, mentored junior QA engineers on design pattern usage and guidance.
+▪	Conducted SIT, functional, and API testing across microservices powering bank accounts, card limits, and payment gateway integrations.
+▪	Leveraged Claude and GitHub Copilot with MCP server integration to accelerate test case generation and defect prediction workflows.
+▪	Participated in Agile sprint planning, backlog refinement, sprint review and retrospectives, contributing QA risk assessments to sprint velocity decisions
 
-## **TECHNICAL SKILLS**
+**QA Engineer – Virtual Music Studio Booking System (Apple)**
+**Warp Development, Remote	Feb 2025 – June 2025**
+▪	Delivered end-to-end automated testing for a high-availability Apple Music studio booking platform using a custom Playwright-Java framework.
+▪	Designed concurrency test scenarios covering complex state synchronization across REST APIs and PostgreSQL databases for real-time booking engines.
+▪	Integrated automated regression suites into GitHub Actions CI/CD pipeline, achieving a 50% reduction in pipeline execution time.
+▪	Authored data-driven test strategies using TestNG and Maven to cover edge cases in booking conflict resolution and availability logic.
 
-### **Programming Languages**
-C#/.NET, Java, Python, JavaScript, TypeScript
+**Senior Test Automation QA Engineer – Manufacturing HWS Broker Systems**
+**BMW IT ZA Hub, Johannesburg, SA	June 2024 – Jan 2025**
+▪	Developed a Cypress/JavaScript BDD framework (Cucumber/Mocha) for end-to-end regression testing of BMW manufacturing microservices, specifically automating unique car label ID validation.
+▪	Partnered with developers, business analysts, and product owners to define acceptance criteria and, user stories with gherkin feature files, ensuring 100% traceability to requirements.
+▪	Managed test plan execution within Jira Xray, performed daily CI/CD pipeline monitoring in GitHub Actions, resolving build failures within SLA.
+▪	Participated in Agile sprint planning, backlog refinement, sprint review and retrospectives, contributing QA risk assessments to sprint velocity decisions.
 
-### **UI & Mobile Automation**
-Playwright, Selenium WebDriver, Cypress, Appium, LeanFT/UFT
+**Intermediate Test Automation Engineer – International Consulting**
+**Inspired Testing (Pty) Ltd Johannesburg, SA (Remote – UK / USA Clients)	Jan 2021 – June 2024**
+▪	Utilita Energy UK: Built cross-platform mobile automation suites using Appium and Java for iOS and Android energy management applications, maintained parallel execution grids.
+▪	Dentons 3E USA: Designed C#/.NET SpecFlow (BDD) scripts for enterprise legal ERP systems, achieving 60% automated regression coverage and reducing release cycle time.
+▪	Configured, Jenkins built jobs for daily automated smoke tests and established Git branching strategies (Git Flow) for parallel team delivery.
+▪	Produced detailed defect reports, root cause analyses, and test summary reports for client stakeholders across UK and US time zones.
+▪	Mentored junior engineers on Page Object Model design patterns, SOLID principles, OOP design concepts and test data management best practices.
 
-### **API Testing**
-RestSharp, Rest-Assured, Postman, Bruno, Swagger, OpenAPI
+**Technical Test Analyst – High-Frequency Derivatives & Stock Trading**
+**Johannesburg Stock Exchange (JSE) Johannesburg, SA	April 2020 – Dec 2020**
+▪	Validated trade matching algorithms and transaction sub-millisecond latency benchmarks for JSE derivatives trading engines using Java and SailFish MIT framework.
+▪	Analyzed high-frequency trading data to identify performance regressions and worked with development teams to resolve within-hours constraints.
+▪	Produced technical test artefacts (test plans, test cases, defect logs) tracked within JIRA under strict financial audit requirements.
 
-### **Frameworks & BDD**
-SpecFlow, Cucumber, NUnit, JUnit, TestNG, Mocha
+**Intermediate QA Engineer – Stockbroking & Risk Profiling Platforms**
+**Nedbank Plc, Johannesburg, SA	March 2018 – Dec 2019**
+▪	Automated RESTful microservice validation using Rest-Assured (Java), covering 10+ API endpoints for the bank's stockbroking and portfolio management services.
+▪	Validated UCRP (Upfront Client Risk Profiling) algorithms through data-driven test suites, ensuring regulatory compliance across client risk categories.
+▪	Executed SQL-based data validation queries to verify back-end data integrity across transactional and reporting databases.
+▪	Collaborated in Agile squads, contributed to sprint ceremonies, daily standups, and retrospectives aligned to banking delivery cadence.
 
-### **CI/CD & DevOps**
-Azure DevOps, YAML Pipelines, GitHub Actions, Jenkins, Docker, Bitbucket, Git
+**AI INTEGRATION & MODERN QA PRACTICES**
 
-### **Cloud & Platforms**
-AWS, Microsoft Azure, Pipeline Configuration
+▪	Prompt & context engineering for automated test asset generation using Claude, GitHub Copilot, and GPT within AI-powered IDE workflows.
+▪	MCP (Model Context Protocol) server integration to connect LLM tooling with live codebases, enabling intelligent defect prediction and automated script scaffolding.
+▪	Exploratory use of AI-assisted regression testing and intelligent test prioritization based on code change impact analysis.
+▪	Applying Generative AI to accelerate test script generation and development, and test data in sprint cycles.
+▪	Advocate for Shift-Left AI tooling: integrating AI code review assistants (Copilot, Claude, GPT) into PR workflows to catch defect-prone patterns pre-merge.
 
-### **Databases & Data Validation**
-SQL Server, SQL, DBeaver, Data-Driven Testing, Database Validation
+**CERTIFICATIONS & EDUCATION**
 
-### **Tools & Quality Engineering**
-GitHub Copilot, Prompt Engineering, SonarQube, Jira, Xray, Zephyr
+AWS Certified Cloud Practitioner	2025
+Microsoft Certified: Azure Fundamentals (AZ-900)	2025
+ISTQB Advanced Level Test Automation Engineer	2020
+ISTQB Agile Tester Extension	2020
+ISTQB Mobile Application Tester Extension	2020
+ISTQB Foundation Level	2019
+Java Foundations Certified Junior Associate – Oracle	2020
+Advanced Diploma – Information Resource Management, UNISA	2026 (Candidate)
+Diploma – Information Technology, UNISA	2019
 
-### **Domain Expertise**
-VISA Card Systems, Payment Gateways, Tokenization, Stockbroking Platforms, Risk Profiling, Trading Engines, Financial Transaction Workflows
+**REFERENCES**
+Busani Siwela
+Investec Bank Ltd
+Team Lead
++27 78 804 0526	Vincent Matidze
+BMW IT ZA Hub
+Manager
++27 81 308 4093	Rejoice Moropane
+Inspired Testing (Pty) Ltd
+Manager
++27 82 401 9182
 
----
 
-## **PROFESSIONAL EXPERIENCE**
-
-### **Investec Bank Ltd** — **Senior Test Automation QA Engineer, Card Systems**  
-**Jul 2025 – Present | Johannesburg, South Africa**
-- Architected a modular **C#/.NET test automation framework** for **VISA Card Systems**, covering end-to-end financial transaction workflows including **POS, Account Statements, and Online Banking (OLB)**.
-- Built and maintained **API validation suites using RestSharp** for transactional payment services and integrated testing with **IBM Terminal Emulator** for mainframe-based workflows.
-- Reduced manual regression effort by **40%** through automation of critical banking and payment validation scenarios.
-- Enforced code quality standards through **Azure Repos pull request reviews**, applying **SOLID principles**, naming conventions, and maintainable automation design patterns.
-- Engineered **Azure DevOps YAML pipelines** to trigger regression suites on merge requests, strengthening **shift-left testing** and continuous quality feedback in the delivery pipeline.
-
-**Environment:** C#, .NET, Selenium, RestSharp, Azure DevOps, Bruno, SQL Server, IBM Terminal Emulator
-
----
-
-### **Warp Development** — **QA Engineer, Apple Systems**  
-**Feb 2025 – Jun 2025**
-- Developed a high-concurrency **Playwright-Java automation framework** for **Apple Music’s virtual studio booking platform**.
-- Automated complex end-to-end scenarios involving **real-time booking workflows**, API interactions, and database state synchronization.
-- Integrated automated regression checks into **GitHub Actions CI/CD pipelines**, reducing execution time by **50%** and improving delivery speed.
-- Enhanced test reliability and feedback loops for high-availability digital service workflows.
-
-**Environment:** Java, Playwright, Maven, GitHub Actions, IntelliJ IDEA
-
----
-
-### **BMW IT ZA Hub** — **Senior Test Automation QA Engineer**  
-**Jun 2024 – Jan 2025**
-- Designed and delivered a **Cypress/JavaScript BDD automation framework** for end-to-end validation of **Manufacturing HWS Broker Systems**.
-- Automated validation of **vehicle label ID workflows** against internal microservices, improving data integrity, traceability, and confidence in system integrations.
-- Managed the full test lifecycle in **Jira Xray**, including sprint planning, test plan execution, defect tracking, and CI/CD monitoring.
-- Collaborated with developers, business analysts, and product owners to define acceptance criteria and ensure alignment between business requirements and automated coverage.
-
-**Environment:** Cypress, JavaScript, Mocha, Node.js, GitHub Actions, Jira Xray
-
----
-
-### **Inspired Testing (Pty) Ltd** — **Intermediate Test Automation Engineer**  
-**Jan 2021 – Jun 2024**
-- Delivered automation consulting services for international **UK and USA clients**, building solutions across **mobile, web, and enterprise ERP platforms**.
-- Built **cross-platform mobile automation frameworks** using **Appium and Java** for **Utilita Energy (UK)**, enabling continuous regression testing across **iOS and Android** applications.
-- Designed **C#/.NET SpecFlow BDD automation scripts** for **Dentons 3E (USA)**, improving regression coverage to **60%** and accelerating release readiness for enterprise legal ERP systems.
-- Configured **Jenkins jobs** for daily smoke execution and supported version control and branching strategies using **Git** to enable parallel delivery streams.
-- Contributed to test automation strategy, framework scalability, and cross-team quality enablement across multiple client environments.
-
-**Environment:** Java, C#/.NET, Appium, SpecFlow, Selenium, Jenkins, Git, SQL
-
----
-
-### **Johannesburg Stock Exchange (JSE)** — **Technical Test Analyst, Automation**  
-**Apr 2020 – Dec 2020**
-- Validated **high-frequency derivatives and stock trading engines**, focusing on trade matching logic, transaction integrity, and low-latency processing.
-- Tested complex market and regulatory workflows using **Java** and **SailFish MIT** in a Linux-based environment.
-- Supported test strategy development for financial systems with strict performance, stability, and compliance requirements.
-- Worked closely with developers and business analysts to validate business-critical trading functionality and regulatory expectations.
-
-**Environment:** Java, SailFish MIT, Linux, Jira
-
----
-
-### **Nedbank Plc (Contract via Paracon)** — **Intermediate QA Engineer, API & Backend**  
-**Mar 2018 – Dec 2019**
-- Automated **RESTful microservices validation** for **stockbroking and risk-profiling platforms** using **Rest-Assured**.
-- Built a reusable **data-driven API testing library**, significantly reducing test authoring effort and improving reusability across services.
-- Validated **UCRP (Upfront Client Risk Profiling)** algorithms using structured data-driven tests to ensure accuracy across multiple customer risk tiers.
-- Contributed to backend quality assurance in Agile delivery teams, supporting stable releases for high-value financial services.
-
-**Environment:** Java, Rest-Assured, Postman, SQL, Agile/Scrum
-
----
-
-## **KEY ACHIEVEMENTS**
-- Designed and implemented **multiple automation frameworks from scratch** across banking, payments, trading, ERP, and digital platform environments.
-- Reduced **manual regression effort by 40%** in card systems testing at Investec.
-- Cut **test execution time by 50%** through CI/CD-integrated automation at Warp Development.
-- Improved regression automation coverage to **60%** on enterprise ERP implementations at Inspired Testing.
-- Built automation solutions across **UI, API, mobile, backend, and data validation layers**.
-- Demonstrated strong specialization in **fintech and banking systems**, including **payments, VISA card systems, risk profiling, stockbroking, and trading engines**.
-
----
-
-## **EDUCATION**
-**Advanced Diploma, Information Resource Management**  
-UNISA | **Expected 2026**
-
-**Diploma, Information Technology**  
-UNISA | **2019**
-
----
-
-## **CERTIFICATIONS**
-- **AWS Certified Cloud Practitioner** — Amazon Web Services | 2025
-- **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft | 2025
-- **ISTQB Advanced Level – Test Automation Engineer** | 2020
-- **ISTQB Agile Tester** | 2020
-- **ISTQB Mobile Tester** | 2020
-- **ISTQB Foundation Level** | 2020
-- **Java Foundations Certified Junior Associate** — Oracle | 2020
