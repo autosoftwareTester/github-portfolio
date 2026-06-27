@@ -9,9 +9,11 @@
 [C#-Based Test Automation Hybrid Projects](https://github.com/MondayIgwe/TestAutomationHybridProject)
 
 **PROFESSIONAL SUMMARY**
+
 Results-driven Senior Test Automation Engineer with 7+ years of experience engineering quality solutions across Fintech, Banking, Energy, Legal, and Manufacturing sectors. Specializes in building modular, maintainable test automation frameworks from the ground up using TypeScript/JavaScript, C#/.NET, and Java, with deep expertise in Playwright, Selenium, and Cypress. Holds multiple industry certifications (ISTQB, AWS, Azure) and is actively integrating Generative AI and LLM tooling (GitHub Copilot, Claude, GPT) with MCP servers to accelerate test asset generation, defect prediction, and framework development velocity.
 
 **CORE COMPETENCIES**
+
 Test Automation Framework Architecture, CI/CD Pipeline Integration, API & Microservices Testing, BDD / TDD Frameworks, Performance & Load Testing, AI-Augmented QA Engineering, Fintech & Payment Systems QA, Shift-Left Testing Strategy, Defect Root Cause Analysis, Agile / Scrum & DevOps Delivery Practices, Cross-Functional Collaboration, DevOps & Cloud Quality Gates
 
 **TECHNICAL STACK SKILLS MATRIX**
@@ -36,6 +38,7 @@ Page Object Model, SOLID, OOP, Design Patterns, DRY Principles
 **PROFESSIONAL EXPERIENCE**
 **Senior Test Automation Engineer – Card Payment Systems (ISO-8583)**
 **Investec Bank Ltd, Johannesburg, SA	July 2025 – Present**
+
 ▪	Architected a modular C#/.NET test automation framework covering end-to-end quality for Card Systems and Card API, including POS, Online Banking, and Account management modules.
 ▪	Implemented Bruno and RestSharp API client libraries to automate Card API validation of payment transactional services and account management endpoints against ISO-8583 financial messaging standards.
 ▪	Validated IBM Terminal Emulator-based mainframe workflows for client payment transactions via automated desktop test scripts.
@@ -47,6 +50,7 @@ Page Object Model, SOLID, OOP, Design Patterns, DRY Principles
 
 **QA Engineer – Virtual Music Studio Booking System (Apple)**
 **Warp Development, Remote	Feb 2025 – June 2025**
+
 ▪	Delivered end-to-end automated testing for a high-availability Apple Music studio booking platform using a custom Playwright-Java framework.
 ▪	Designed concurrency test scenarios covering complex state synchronization across REST APIs and PostgreSQL databases for real-time booking engines.
 ▪	Integrated automated regression suites into GitHub Actions CI/CD pipeline, achieving a 50% reduction in pipeline execution time.
@@ -54,6 +58,7 @@ Page Object Model, SOLID, OOP, Design Patterns, DRY Principles
 
 **Senior Test Automation QA Engineer – Manufacturing HWS Broker Systems**
 **BMW IT ZA Hub, Johannesburg, SA	June 2024 – Jan 2025**
+
 ▪	Developed a Cypress/JavaScript BDD framework (Cucumber/Mocha) for end-to-end regression testing of BMW manufacturing microservices, specifically automating unique car label ID validation.
 ▪	Partnered with developers, business analysts, and product owners to define acceptance criteria and, user stories with gherkin feature files, ensuring 100% traceability to requirements.
 ▪	Managed test plan execution within Jira Xray, performed daily CI/CD pipeline monitoring in GitHub Actions, resolving build failures within SLA.
@@ -61,6 +66,7 @@ Page Object Model, SOLID, OOP, Design Patterns, DRY Principles
 
 **Intermediate Test Automation Engineer – International Consulting**
 **Inspired Testing (Pty) Ltd Johannesburg, SA (Remote – UK / USA Clients)	Jan 2021 – June 2024**
+
 ▪	Utilita Energy UK: Built cross-platform mobile automation suites using Appium and Java for iOS and Android energy management applications, maintained parallel execution grids.
 ▪	Dentons 3E USA: Designed C#/.NET SpecFlow (BDD) scripts for enterprise legal ERP systems, achieving 60% automated regression coverage and reducing release cycle time.
 ▪	Configured, Jenkins built jobs for daily automated smoke tests and established Git branching strategies (Git Flow) for parallel team delivery.
@@ -69,12 +75,14 @@ Page Object Model, SOLID, OOP, Design Patterns, DRY Principles
 
 **Technical Test Analyst – High-Frequency Derivatives & Stock Trading**
 **Johannesburg Stock Exchange (JSE) Johannesburg, SA	April 2020 – Dec 2020**
+
 ▪	Validated trade matching algorithms and transaction sub-millisecond latency benchmarks for JSE derivatives trading engines using Java and SailFish MIT framework.
 ▪	Analyzed high-frequency trading data to identify performance regressions and worked with development teams to resolve within-hours constraints.
 ▪	Produced technical test artefacts (test plans, test cases, defect logs) tracked within JIRA under strict financial audit requirements.
 
 **Intermediate QA Engineer – Stockbroking & Risk Profiling Platforms**
 **Nedbank Plc, Johannesburg, SA	March 2018 – Dec 2019**
+
 ▪	Automated RESTful microservice validation using Rest-Assured (Java), covering 10+ API endpoints for the bank's stockbroking and portfolio management services.
 ▪	Validated UCRP (Upfront Client Risk Profiling) algorithms through data-driven test suites, ensuring regulatory compliance across client risk categories.
 ▪	Executed SQL-based data validation queries to verify back-end data integrity across transactional and reporting databases.
