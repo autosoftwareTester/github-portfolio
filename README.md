@@ -4,9 +4,6 @@
 
 🔗 **Software Test Automation Portfolio**
 
-[Java-Based SandBox Test Automation Hybrid Projects](https://github.com/autosoftwareTester/TestAutomationHybridProject)
-
-[C#-Based Test Automation Hybrid Projects](https://github.com/MondayIgwe/TestAutomationHybridProject)
 
 **PROFESSIONAL SUMMARY**
 
