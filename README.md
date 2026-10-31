@@ -2,7 +2,7 @@
 
 📞 **+27 64 853 3763** | ✉️ [autotestsoftware@gmail.com](mailto:autotestsoftware@gmail.com) | 🌐 [LinkedIn Profile](https://www.linkedin.com/in/chinemerem-igwe/) |
 
-🔗 **Software Test Automation Portfolio**
+🔗 **Software Test Automation Project Portfolio**
 
 [Playwright API Testing](https://github.com/autosoftwareTester/PlaywrigthAPITesting)
 
